@@ -1,0 +1,33 @@
+html {
+    margin: 0 0 0 0;
+    padding: 0 0 0 0;
+}
+body {
+    font-family: 'Copse', serif;
+    text-align:center;
+}
+div.aappicture {
+    height: 30%;
+    width: 30%;
+    float:left;
+    box-sizing: border-box;
+}
+img {
+    width: 30%;
+}
+
+#wrapper {
+    width: 600px;
+    margin:auto;
+}
+#pics {
+    width: 450px;
+    font-size: 0px;
+    float: left;
+}
+
+#score {
+    width:140px;
+    float:left;
+    background-color:#ccc;
+}
